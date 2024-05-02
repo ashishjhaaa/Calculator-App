@@ -1,0 +1,6 @@
+Apa yang diubah:
+- Layar pembuka sekarang menjadi gelap
+
+Apa yang diperbaiki: 
+- masalah keyboard 
+- keyboard masih bergulir
